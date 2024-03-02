@@ -5,7 +5,7 @@
     <link>https://shanchencrypto.github.io/</link>
       <atom:link href="https://shanchencrypto.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shan Chen&#39;s Homepage</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shanchencrypto.github.io/media/icon_huf200ef62d9d594956e655abb12224aa2_38222_512x512_fill_lanczos_center_3.png</url>
       <title>Shan Chen&#39;s Homepage</title>
@@ -30,6 +30,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Integrating Causality in Messaging Channels</title>
+      <link>https://shanchencrypto.github.io/publication/causality/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://shanchencrypto.github.io/publication/causality/</guid>
+      <description></description>
     </item>
     
     <item>
