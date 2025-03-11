@@ -33,9 +33,17 @@
     </item>
     
     <item>
+      <title>Committing Authenticated Encryption: Generic Transforms with Hash Functions</title>
+      <link>https://shanchencrypto.github.io/publication/comae/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://shanchencrypto.github.io/publication/comae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Integrating Causality in Messaging Channels</title>
       <link>https://shanchencrypto.github.io/publication/causality/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
       <guid>https://shanchencrypto.github.io/publication/causality/</guid>
       <description></description>
     </item>
