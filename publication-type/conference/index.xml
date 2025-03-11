@@ -5,7 +5,7 @@
     <link>https://shanchencrypto.github.io/publication-type/conference/</link>
       <atom:link href="https://shanchencrypto.github.io/publication-type/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shanchencrypto.github.io/media/icon_huf200ef62d9d594956e655abb12224aa2_38222_512x512_fill_lanczos_center_3.png</url>
       <title>Conference</title>
@@ -13,58 +13,10 @@
     </image>
     
     <item>
-      <title>Committing Authenticated Encryption: Generic Transforms with Hash Functions</title>
-      <link>https://shanchencrypto.github.io/publication/comae/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://shanchencrypto.github.io/publication/comae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrating Causality in Messaging Channels</title>
-      <link>https://shanchencrypto.github.io/publication/causality/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://shanchencrypto.github.io/publication/causality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Provable Security Analysis of FIDO2</title>
-      <link>https://shanchencrypto.github.io/publication/fido2/</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://shanchencrypto.github.io/publication/fido2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure Communication Channel Establishment: TLS 1.3 (over TCP Fast Open) vs. QUIC</title>
-      <link>https://shanchencrypto.github.io/publication/tlsquic/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://shanchencrypto.github.io/publication/tlsquic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Human Computing for Handling Strong Corruptions in Authenticated Key Exchange</title>
       <link>https://shanchencrypto.github.io/publication/hake/</link>
       <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://shanchencrypto.github.io/publication/hake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minimizing the Two-Round Even–Mansour Cipher</title>
-      <link>https://shanchencrypto.github.io/publication/minem/</link>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://shanchencrypto.github.io/publication/minem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tight Security Bounds for Key-Alternating Ciphers</title>
-      <link>https://shanchencrypto.github.io/publication/keyalt/</link>
-      <pubDate>Mon, 11 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>https://shanchencrypto.github.io/publication/keyalt/</guid>
       <description></description>
     </item>
     

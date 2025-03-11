@@ -10,11 +10,11 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shanchencrypto.github.io/publication/comae/</loc>
+    <loc>https://shanchencrypto.github.io/publication-type/1/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shanchencrypto.github.io/publication-type/conference/</loc>
+    <loc>https://shanchencrypto.github.io/publication/comae/</loc>
     <lastmod>2025-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,7 +38,7 @@
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://shanchencrypto.github.io/publication-type/journal/</loc>
+    <loc>https://shanchencrypto.github.io/publication-type/2/</loc>
     <lastmod>2021-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -92,6 +92,10 @@
   </url><url>
     <loc>https://shanchencrypto.github.io/publication/minem_joc/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shanchencrypto.github.io/publication-type/conference/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://shanchencrypto.github.io/publication/hake/</loc>
