@@ -5,12 +5,20 @@
     <link>https://shanchencrypto.github.io/publication-type/1/</link>
       <atom:link href="https://shanchencrypto.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shanchencrypto.github.io/media/icon_huf200ef62d9d594956e655abb12224aa2_38222_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://shanchencrypto.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Provable Security and Privacy Analysis of WPA3&#39;s SAE and SAE-PK Protocols</title>
+      <link>https://shanchencrypto.github.io/publication/wifi/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://shanchencrypto.github.io/publication/wifi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Committing Authenticated Encryption: Generic Transforms with Hash Functions</title>
