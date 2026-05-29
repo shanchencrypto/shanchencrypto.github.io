@@ -125,5 +125,8 @@
     <loc>https://shanchencrypto.github.io/publication/keyalt/</loc>
     <lastmod>2014-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shanchencrypto.github.io/group/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
